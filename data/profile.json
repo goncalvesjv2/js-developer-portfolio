@@ -1,78 +1,64 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "João Victor",
+  "photo": "https://avatars.githubusercontent.com/u/134209929?v=4",
+  "job": "Front-End Developer",
+  "location": "Jacareí - SP",
+  "phone": "(12) 99219-7191",
+  "email": "joaogoncalves3m@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/goncalvesjv2/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/goncalvesjv2/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/goncalvesjv2/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/goncalvesjv2/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
-      "Empatia",
+      "Proatividade",
       "Liderança",
       "Trabalho em equipe",
-      "Flexibilidade",
+      "Comunicação",
       "Organização"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Starbucks",
+      "url": "https://github.com/goncalvesjv2/Starbucks",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Discord",
+      "url": "https://github.com/goncalvesjv2/Discord",
+      "github": true
+    },
+    {
+      "name": "YouTube",
+      "url": "https://github.com/goncalvesjv2/Youtube",
       "github": true
     }
+
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Aprendiz de Produção / Suzano",
+      "period": "Fev de 2023 - Dez de 2024",
+      "description": "Atuação como jovem aprendiz na área de produção industrial, nos setores de Pátio de Madeiras, Digestor e Linhas de Fibras B e C."
     }
   ]
 }
